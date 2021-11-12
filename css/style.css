@@ -460,8 +460,9 @@ object-fit: cover;
 }
 
 .btn a {
-color: #04a3b5;
+color: #fff;
 font-size: 15px;
+text-decoration: none;
 }
 
 /*footer*/
